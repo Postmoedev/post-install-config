@@ -30,33 +30,42 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <h3>Configure Roles</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Agents -> Roles</b>
+- <b>Create "Supreme Admin" role</b>
 
 <h3>Configure Departments</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Agents -> Departments</b>
+- <b>Create "System Administrators" department</b>
 
 <h3>Configure Teams</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Agents -> Teams</b>
+- <b>Create "Level I Support" and "Level II Support" teams</b>
 
 <h3>Allow Ticket Creation</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Settings -> User Settings</b>
+- <b>Uncheck "Require registration and login to create tickets"</b>
 
 <h3>Configure Agents (workers)</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Agents -> Add New</b>
+- <b>Add agents: Jane and John</b>
 
 <h3>Configure Users (customers)</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Agent Panel -> Users -> Add New</b>
+- <b>Add users: Karen and Ken</b>
 
 <h3>Configure SLA</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Manage -> SLA</b>
+- <b>Set SLA levels:
+Sev-A (1 hour, 24/7)
+Sev-B (4 hours, 24/7)
+Sev-C (8 hours, business hours)</b>
 
 <h3>Configure Help Topics</h3>
-- <b></b>
-- <b></b>
+- <b>Navigate to Admin Panel -> Manage -> Help Topics</b>
+- <b>Create help topics:
+Business Critical Outage,
+Personal Computer Issues,
+Equipment Request, and
+Password Reset</b>
+
+
